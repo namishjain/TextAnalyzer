@@ -1,0 +1,65 @@
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 400;
+    text-align: center;
+    display: inline;
+    background-color: dodgerblue;
+    color: white;
+    padding: 10px 15px;
+    margin-left: 350px;
+    user-select: none;
+}
+
+#text{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    position: relative;
+    top: 20px;
+    padding: 10px 15px;
+    resize: none;
+    margin-left: 60px;
+    overflow-y: auto;
+}
+
+#btn{
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 10px 15px;
+    cursor: pointer;
+    background-color: dodgerblue;
+    color: white;
+    position: relative;
+    top: 20px;
+    left: 500px;
+    top: 25px;
+}
+
+.warn{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 480px;
+    position: relative;
+    top: 30px;
+    font-size: 23px;
+}
+
+
+.ana{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    position: relative;
+    top: 10px;
+}
+
+.btn{
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 10px 15px;
+    cursor: pointer;
+    background-color: dodgerblue;
+    color: white;
+    position: relative;
+    top: 20px;
+    left: 500px;
+    top: 25px;
+    display: none;
+}
